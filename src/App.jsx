@@ -1,9 +1,12 @@
-import Starter from './tutorials/01-useState/strater/05-useState-gotcha'
+// import Starter from './tutorials/04-project-structure/Navbar/Navbar'
+
+import { Home, About } from './tutorials/04-project-structure/Pages'
 
 function App() {
   return (
     <div className='container'>
-      <Starter />
+      <Home />
+      <About />
     </div>
   )
 }
