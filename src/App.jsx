@@ -1,10 +1,10 @@
-import Starter from './tutorials/07-useRef/01-useRef-basics'
+import Navbar from './tutorials/09-context-api/context/Navbar'
 
 function App() {
   return (
-    <div className='container'>
-      <Starter />
-    </div>
+    <main>
+      <Navbar />
+    </main>
   )
 }
 
