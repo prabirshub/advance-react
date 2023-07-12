@@ -1,9 +1,9 @@
-import Navbar from './tutorials/09-context-api/context/Navbar'
+import Starter from './tutorials/10-useReducer/01-useReducer'
 
 function App() {
   return (
     <main>
-      <Navbar />
+      <Starter />
     </main>
   )
 }
